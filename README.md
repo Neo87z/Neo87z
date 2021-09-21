@@ -38,4 +38,5 @@
 
 
   <img align="left" alt="Neo87z's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neo87z&show_icons=true&hide_border=true&theme=radical" />
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo87z&layout=compact)]
 
