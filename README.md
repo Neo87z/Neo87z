@@ -37,6 +37,7 @@
 
 
 
-  <img align="left" alt="Neo87z's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neo87z&show_icons=true&hide_border=true&theme=radical" />
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo87z&layout=compact)]
+<img align="left" alt="Neo87z's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neo87z&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Neo87z's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo87z&layout=compac" />
+ 
 
