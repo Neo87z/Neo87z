@@ -37,5 +37,5 @@
 
 
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neo87z&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Neo87z's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Neo87z&show_icons=true&hide_border=true&theme=radical" />
 
