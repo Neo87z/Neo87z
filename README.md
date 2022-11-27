@@ -6,7 +6,7 @@
 - 🔭 Undergraduate At Memorial University!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with any developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 <br />
