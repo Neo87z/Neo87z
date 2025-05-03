@@ -1,6 +1,6 @@
 # Hi there, I'm Shehan Horadagoda - aka [Neo87z] 👋
 
-## Experienced Developer & Cybersecurity Enthusiast
+## Experienced Backend Developer & Cybersecurity Enthusiast
 
 - 🎓 Proud graduate from Memorial University
 - 📚 Currently pursuing a Master's in Cybersecurity at Murdoch University
@@ -43,11 +43,6 @@
 
 <br />
 <br />
-
-## Let's Connect:
-- 📫 How to reach me: [Add your preferred contact method]
-- 💼 Connect with me on [LinkedIn](add-your-linkedin-url)
-- 🌐 Check out my portfolio: [Add your portfolio URL]
 
 ---
 
