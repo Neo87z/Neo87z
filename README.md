@@ -96,7 +96,7 @@ const shehan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neo87z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neo87z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo87z&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
@@ -106,11 +106,7 @@ const shehan = {
 
 <br>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neo87z&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
-</div>
+*Note: Unable to fetch total commit count due to API limitations*
 
 <br>
 
